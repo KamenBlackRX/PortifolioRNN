@@ -1,0 +1,31 @@
+# Dev/Deployment
+pyCli
+
+
+# Dependencies
+tensorflow
+
+# FOR GPU = tensorflow-gpu
+
+pymongo
+flask-restful
+opencv-python
+numpy
+jsonify
+six
+sphinx
+sphinx_rtd_theme
+Pillow
+scikit-learn
+nltk
+tflearn
+scipy
+pandas
+matplotlib
+docker
+docker-compose
+keras
+autopepe8
+PySide2
+
+#END OF FILE
