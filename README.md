@@ -1,10 +1,10 @@
-# Marvin Builder #
+# RNN Builder #
 
 ## Project status: ##
 
 [![Generic badge](https://img.shields.io/badge/Build-failed-red.svg)](https://shields.io/) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-Marving builder to generate tree from scratch. Any more description can goes here!
+RNN builder to generate tree from scratch. Any more description can goes here!
 
 ### Pre instructions for setup ###
 
