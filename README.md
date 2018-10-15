@@ -39,7 +39,7 @@ virtualenv -p 'python-3.6' env
 ```
 
 3.**Instalation**
-Marvin use all tensorflow deps. but they're are bundled in setup script so no need worry about. Just type this command on system console.
+Builder use all tensorflow deps. but they're are bundled in setup script so no need worry about. Just type this command on system console.
 
 ```shell
 (env) python setup.py install
