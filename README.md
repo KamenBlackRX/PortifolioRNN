@@ -48,7 +48,7 @@ Marvin use all tensorflow deps. but they're are bundled in setup script so no ne
 The script will install all required package to your system.
 
 4.**Usage**
-Marvin builder comes with intregated documentation. To build the documentation with     sphinx-build program, type this:
+builder comes with intregated documentation. To build the documentation with     sphinx-build program, type this:
 
 ```shell
 $ sphinx-build -b html sourcedir builddir
@@ -57,7 +57,7 @@ where sourcedir is the source directory, and builddir is the directory in which 
 
 ---
 
-## Marvin Builder - Using Deep learning with GPU ##
+## Builder - Using Deep learning with GPU ##
 
 > TO-DO: Include this procediment in the requirements.txt. It was needed to use protoc later in the tutorial
 
