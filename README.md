@@ -18,7 +18,7 @@ RNN builder to generate tree from scratch. Any more description can goes here!
 
 2.**Dependencies**
 
-Marvin builder needs a few depencies to run. the follwing command will install all deps in system target!
+Builder needs a few depencies to run. the follwing command will install all deps in system target!
 
 ***Update package list***
 
